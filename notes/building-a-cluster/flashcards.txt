@@ -1,0 +1,10 @@
+How is Kubernetes released? Open source every four months
+How is Kubernetes installed? With kubeadm
+What does vanilla Kubernetes provide? Core functionality
+What additional functionality do Kubernetes distributions provide? Networking, dashboard, storage, observability, ingress
+What do Kubernetes distributions do? Provide stable release, add products from the ecosystem
+What are the main cloud distributions? EKS, AKS, GKE
+What are some onprem distributions? Openshift, Google Antos, Rancher, Canonical Charmed Kubernetes
+What are the Kubernetes node roles? Control plane, worker nodes
+What do all nodes have? Container runtime, kubelet
+What does the kubelet responsible for? Running orchestrated containers as pods on any nodes
